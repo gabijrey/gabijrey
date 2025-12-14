@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋! My name is Gabi and I'm a Full-Stack Web Developer</h2>
-###
-<h3>When I code, I rely on</h3>
+<h1 align="left">Hi 👋! My name is Gabi and I'm a Web Developer</h1>  
+<p>Focused on Full-Stack development. I enjoy learning, understanding everything around me, knowing how things work, and helping solve problems. If something doesn’t work, I want to know how to fix it.</p>  
+<h2>💻 My tech stack</h2>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
@@ -16,8 +16,8 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<h2>This are my stats</h2>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabijrey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabijrey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
