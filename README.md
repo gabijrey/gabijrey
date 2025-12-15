@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Gabi and I'm a Web Developer</h1>  
+<h1 align="center">Hi 👋! My name is Gabi and I'm a Web Developer</h1>  
 <p>Focused on Full-Stack development 🖥️. I enjoy learning, understanding everything around me, knowing how things work, and helping solve problems. If something doesn’t work, I want to know how to fix it 🔧. <br>I love making new projects, it helps me to improve, explore my creativity and show the world what I can do.</p>
 <ul>
   <li>🎓 Currently learning Python and MatLab.</li>
@@ -6,6 +6,15 @@
   <li>🏎️ I love motorsports</li>
   <li>🏀 Basketball Referee</li>
 </ul>
+<h2>ℹ️ Contact me</h2>
+<div>
+  <a href="mailto:gabrielreyvilchez@gmail.com">
+    <img alt="Enviar un correo" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" width="80"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-rey-vilchez-0a3299336">
+    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" width="100"/>
+  </a>
+</div>
 <h2>💻 My tech stack</h2>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" width="80" heigth="50"/>
